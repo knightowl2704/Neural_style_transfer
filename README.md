@@ -25,27 +25,25 @@ The final loss is defined as,
 
 <img src="https://miro.medium.com/max/505/1*w7VAfUKbRYG2KXIFBUhfjQ.png">
 
-Content Image 
+**Content Image** 
 
-<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/content.jpg" width="512"> 
+<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/content.jpg" width="256"> 
 
-Style Image
+**Style Image**
 
-<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/style.jpg" width="512"> 
+<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/style.jpg" width="256"> 
 
-Results :
+**Results :**
 
 
 After 10 iterations ; learning rate of 9 
 
-<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/10-generated.jpg" width="512"> 
-
-
+<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/10-generated.jpg" width="256"> 
 
 
 After 200 iterations ; learning rate of 9
 
-<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/200-generated.jpg" width="512"> 
+<img src="https://github.com/knightowl2704/Neural_style_transfer/blob/master/200-generated.jpg" width="256"> 
 
 
 
